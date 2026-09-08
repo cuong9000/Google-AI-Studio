@@ -1,0 +1,6 @@
+{
+  "name": "Tenten.vn - Ưu Đãi Đăng Ký Tài Khoản Mới",
+  "description": "Nền tảng đăng ký tài khoản mới Tenten.vn nhận ngay voucher hosting 30 ngày, giảm 70% hosting năm đầu và các dịch vụ cloud tốc độ cao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
